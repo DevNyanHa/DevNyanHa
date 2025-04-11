@@ -4,7 +4,7 @@
 ### Skills
 <span>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=coffeescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitBook-BBDDE5?style=flat-square&logo=gitbook&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitBook-BBDDE5?style=flat-square&logo=gitbook&logoColor=black"/>
 <img src="https://img.shields.io/badge/Mamp-02749C?style=flat-square&logo=mamp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white"/>
