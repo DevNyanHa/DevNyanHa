@@ -20,8 +20,8 @@
 
 ### Tools
 <span>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepad++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
